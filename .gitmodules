@@ -1,0 +1,3 @@
+[submodule "image/image_object_detection/library/yolov7"]
+	path = image/image_object_detection/library/yolov7
+	url = https://github.com/varundataeaze/yolov7
