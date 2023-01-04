@@ -1,0 +1,17 @@
+source: "./library/yolov7/inference/images" 
+weights: "./library/weights/yolov7.pt"
+save_txt: False
+view_img: False
+imgsz: 640
+stride: 32
+trace: False
+device: "cpu"
+conf_thres: 0.25
+iou_thres: 0.45
+classes: null
+agnostic_nms: False
+augment: False
+save_conf: False
+'0': PERSON
+'7': FORKLIFT 
+

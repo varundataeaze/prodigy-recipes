@@ -100,3 +100,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#weights
+image/image_object_detection/library/weights/
